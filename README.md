@@ -26,5 +26,3 @@ Use the breadboard to make the circuit. You will not need more material than the
 ![LED circuit](https://github.com/CarmineDAlessandro/Cassiopeia-Box-Puzzle-STM32F3discovery-Demo/blob/master/led%20circuit.JPG)
 ## Flash and Run the code
 Download the zipped code, unzip it, open ChibiStudio and import "existing project". Connect the board to an USB plug, then click on the "External Tool" icon in the upper part of the IDE and select "OpenOCD on STLink ..." and select the correct configuration file at the path "ChibiStudio\tools\openocd\scripts\board\stm32f3discovery.cfg". You are ready to run the debug configuration of the code.
-
-If you do not want to debug the code, you can remove the seral prints in the main to increase the performance.
