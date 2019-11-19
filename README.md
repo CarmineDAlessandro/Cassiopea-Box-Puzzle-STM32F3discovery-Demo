@@ -16,7 +16,7 @@ The program reads data from the accellerometer and gyroscope, outputting on the 
 - 25 male to female jumper cables
 - A box
 ### What software you need
-- ChibiStudio correctly installed (You can download it at [this link](http://www.chibios.org/dokuwiki/doku.php?id=chibios:downloads:start))
+- ChibiStudio correctly installed (You can download it at [this link](http://chibios.org/dokuwiki/doku.php?id=chibios:product:chibistudio:start)
 ### Make LED the circuit
 PXN is the pin of the led. X indicates the letter, N the number. The used pins are: PC0, PC1, PC2, PC3, PB0, PB1, PB2, PB3.
 GND is the ground pin.
