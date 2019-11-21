@@ -11,7 +11,7 @@ The program reads data from the accellerometer and gyroscope, outputting on the 
 - 1 STM32F3discovery
 - 5 white leds
 - 3 yellow leds
-- 8 electric resistances
+- 8 resistors
 - A breadboard
 - 25 male to female jumper cables
 - A box
