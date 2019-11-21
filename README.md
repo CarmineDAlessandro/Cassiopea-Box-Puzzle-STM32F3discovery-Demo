@@ -2,7 +2,7 @@
 When a university project becomes a puzzle.
 
 ## Overview
-This project is made for the class of Embedded Systems. The official board of the class is the STM32F3discovery and the real time operative system ChibiOS. You can find information on the board at [this link](https://www.st.com/en/evaluation-tools/stm32f3discovery.html) and on the RTOS at [this link](http://chibios.org/dokuwiki/doku.php).
+This project was made for the class of Embedded Systems. The official material of the class was the STM32F3discovery and the real time operative system ChibiOS. You can find information on the board at [this link](https://www.st.com/en/evaluation-tools/stm32f3discovery.html) and on the RTOS at [this link](http://chibios.org/dokuwiki/doku.php).
 
 The program reads data from the accellerometer and gyroscope, outputting on the leds of the puzzle and debug information on the serial port.
 
