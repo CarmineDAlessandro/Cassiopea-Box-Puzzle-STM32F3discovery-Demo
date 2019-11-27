@@ -1,4 +1,4 @@
-# Cassiopea-Box-Puzzle-STM32F3discovery-Demo
+# Cassiopea Box Puzzle - STM32F3discovery Demo
 When a university project becomes a puzzle.
 
 ## Overview
